@@ -1,4 +1,4 @@
-# Last updated: 8/21/2026, 11:49:03 PM
+# Last updated: 8/21/2026, 11:49:26 PM
 1class Solution:
 2    def climbStairs(self, n: int) -> int:
 3        memo = {}
